@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Pérez",
+        "email": "juan.perez@example.com",
+        "password": "hashedpassword1"
+    },
+    {
+        "id": 2,
+        "name": "María López",
+        "email": "maria.lopez@example.com",
+        "password": "hashedpassword2"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Sánchez",
+        "email": "carlos.sanchez@example.com",
+        "password": "hashedpassword3"
+    },
+    {
+        "id": 4,
+        "name": "Ana González",
+        "email": "ana.gonzalez@example.com",
+        "password": "hashedpassword4"
+    },
+    {
+        "id": 5,
+        "name": "Pedro Ramírez",
+        "email": "pedro.ramirez@example.com",
+        "password": "hashedpassword5"
+    },
+    {
+        "id": 6,
+        "name": "Laura Fernández",
+        "email": "laura.fernandez@example.com",
+        "password": "hashedpassword6"
+    },
+    {
+        "id": 7,
+        "name": "Diego Torres",
+        "email": "diego.torres@example.com",
+        "password": "hashedpassword7"
+    },
+    {
+        "id": 8,
+        "name": "Sofía Méndez",
+        "email": "sofia.mendez@example.com",
+        "password": "hashedpassword8"
+    },
+    {
+        "id": 9,
+        "name": "José Herrera",
+        "email": "jose.herrera@example.com",
+        "password": "hashedpassword9"
+    },
+    {
+        "id": 10,
+        "name": "Carmen Ríos",
+        "email": "carmen.rios@example.com",
+        "password": "hashedpassword10"
+    }
+]
